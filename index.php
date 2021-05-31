@@ -1,3 +1,8 @@
+<?php
+require_once __DIR__ . '/film.php';
+require_once __DIR__ . '/films-data.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

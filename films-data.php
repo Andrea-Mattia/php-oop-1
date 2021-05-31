@@ -44,4 +44,9 @@ $films = [
         'description' => 'Dopo avere distrutto un Horcrux e scoperto il significato dei tre Doni della Morte Harry, Ron e Hermione continuano a cercare gli altri Horcrux, nel tentativo di distruggere Voldemort, che ora ha ottenuto la Bacchetta di Sambuco. Il Signore Oscuro scopre la ricerca che Harry e i suoi amici hanno iniziato e lancia un attacco alla scuola di Hogwarts, dove il trio, gli allievi e tutti gli insegnanti tentano un\'ultima resistenza contro le forze oscure.',
         'year' => 2011,
     ],
+    [
+        'title' => 'Harry Potter e la Maledizione dell\'Erede',
+        'description' => 'È sempre stato difficile essere Harry Potter e non è molto più facile ora che è un impiegato del Ministero della Magia oberato di lavoro, marito e padre di tre figli in età scolare. Mentre Harry Potter fa i conti con un passato che si rifiuta di rimanere tale, il secondogenito Albus deve lottare con il peso dell\'eredità famigliare che non ha mai voluto. Il passato e il presente si fondono minacciosamente e padre e figlio apprendono una scomoda verità: talvolta l\'oscurità proviene da luoghi inaspettati',
+        'year' => '',
+    ],
 ];
