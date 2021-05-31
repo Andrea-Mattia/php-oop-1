@@ -47,6 +47,6 @@ $films = [
     [
         'title' => 'Harry Potter e la Maledizione dell\'Erede',
         'description' => 'È sempre stato difficile essere Harry Potter e non è molto più facile ora che è un impiegato del Ministero della Magia oberato di lavoro, marito e padre di tre figli in età scolare. Mentre Harry Potter fa i conti con un passato che si rifiuta di rimanere tale, il secondogenito Albus deve lottare con il peso dell\'eredità famigliare che non ha mai voluto. Il passato e il presente si fondono minacciosamente e padre e figlio apprendono una scomoda verità: talvolta l\'oscurità proviene da luoghi inaspettati',
-        'year' => '',
+        'year' => 'TBA',
     ],
 ];

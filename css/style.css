@@ -1,0 +1,39 @@
+/* GENERAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-image: linear-gradient(45deg, #7f0909, #ffc500);
+}
+
+/* UTILITIES */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.df {
+  display: flex;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.aic {
+  align-items: center;
+}
+
+/* LAYOUT */
+header {
+  justify-content: space-evenly;
+  height: 100px;
+}
+
+article {
+  margin: 1rem 0;
+}
